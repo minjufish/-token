@@ -52,6 +52,10 @@
       "00": {
         "value": "#fcfcfc",
         "type": "color"
+      },
+      "04": {
+        "value": "#dedede",
+        "type": "color"
       }
     },
     "main_level": {
@@ -474,6 +478,10 @@
       "00": {
         "value": "#fcfcfc",
         "type": "color"
+      },
+      "04": {
+        "value": "#DEDEDE",
+        "type": "color"
       }
     },
     "main_level": {
@@ -895,6 +903,10 @@
       },
       "00": {
         "value": "#959595",
+        "type": "color"
+      },
+      "04": {
+        "value": "#6b6b6b",
         "type": "color"
       }
     },
